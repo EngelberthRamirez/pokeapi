@@ -1,0 +1,16 @@
+C:\Repositories\pokeapi\Servicios\bin\Debug\net8.0\Servicios.deps.json
+C:\Repositories\pokeapi\Servicios\bin\Debug\net8.0\Servicios.dll
+C:\Repositories\pokeapi\Servicios\bin\Debug\net8.0\Servicios.pdb
+C:\Repositories\pokeapi\Servicios\bin\Debug\net8.0\Entidades.dll
+C:\Repositories\pokeapi\Servicios\bin\Debug\net8.0\Entidades.pdb
+C:\Repositories\pokeapi\Servicios\obj\Debug\net8.0\Servicios.csproj.AssemblyReference.cache
+C:\Repositories\pokeapi\Servicios\obj\Debug\net8.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\pokeapi\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfoInputs.cache
+C:\Repositories\pokeapi\Servicios\obj\Debug\net8.0\Servicios.AssemblyInfo.cs
+C:\Repositories\pokeapi\Servicios\obj\Debug\net8.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Repositories\pokeapi\Servicios\obj\Debug\net8.0\Servicios.sourcelink.json
+C:\Repositories\pokeapi\Servicios\obj\Debug\net8.0\Servicios.csproj.CopyComplete
+C:\Repositories\pokeapi\Servicios\obj\Debug\net8.0\Servicios.dll
+C:\Repositories\pokeapi\Servicios\obj\Debug\net8.0\refint\Servicios.dll
+C:\Repositories\pokeapi\Servicios\obj\Debug\net8.0\Servicios.pdb
+C:\Repositories\pokeapi\Servicios\obj\Debug\net8.0\ref\Servicios.dll
